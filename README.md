@@ -1,3 +1,7 @@
+# 📘 Dataset Availability 
+The data is available via zenodo https://doi.org/10.5281/zenodo.17440661
+
+
 # 📘 Baseline Classifiers for MCQ Difficulty Estimation
 
 This repository provides **baseline implementations** for predicting the **difficulty of multiple-choice questions (MCQs)** using **textual and multimodal (image + text)** inputs.  
